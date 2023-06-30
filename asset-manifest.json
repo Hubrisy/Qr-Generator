@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Qr-Generator/static/css/main.43d4cc38.css",
+    "main.js": "/Qr-Generator/static/js/main.e95ec30a.js",
+    "static/js/498.6d48dd82.chunk.js": "/Qr-Generator/static/js/498.6d48dd82.chunk.js",
+    "static/js/703.c3ad59cd.chunk.js": "/Qr-Generator/static/js/703.c3ad59cd.chunk.js",
+    "static/js/514.4648229d.chunk.js": "/Qr-Generator/static/js/514.4648229d.chunk.js",
+    "static/js/787.652a61a7.chunk.js": "/Qr-Generator/static/js/787.652a61a7.chunk.js",
+    "index.html": "/Qr-Generator/index.html",
+    "main.43d4cc38.css.map": "/Qr-Generator/static/css/main.43d4cc38.css.map",
+    "main.e95ec30a.js.map": "/Qr-Generator/static/js/main.e95ec30a.js.map",
+    "498.6d48dd82.chunk.js.map": "/Qr-Generator/static/js/498.6d48dd82.chunk.js.map",
+    "703.c3ad59cd.chunk.js.map": "/Qr-Generator/static/js/703.c3ad59cd.chunk.js.map",
+    "514.4648229d.chunk.js.map": "/Qr-Generator/static/js/514.4648229d.chunk.js.map",
+    "787.652a61a7.chunk.js.map": "/Qr-Generator/static/js/787.652a61a7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43d4cc38.css",
+    "static/js/main.e95ec30a.js"
+  ]
+}
